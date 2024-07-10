@@ -1,0 +1,5 @@
+mkdir foldername
+cd foldername
+git init in terminal
+git add .
+git commit -m "commit msg"
