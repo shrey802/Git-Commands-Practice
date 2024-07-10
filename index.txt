@@ -9,3 +9,8 @@ git push -u origin main pushing to remote repo on branch main
 git clone url
 git pull to pull the changes of remote repo to working directory 
 git restore --staged filename this command is used to unstage the staged changes of working directory
+
+
+branches 
+
+git checkout -b branchname
