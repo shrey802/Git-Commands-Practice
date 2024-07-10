@@ -13,7 +13,10 @@ git status shows staged changes yet to be committed
 git log shows commit history
 
 
-branches 
+branches :
 
-git checkout -b branchname
+git checkout -b branchname to create branches and switch to newly created branch
+git add .
+git commit -m "commit msg"
 git push origin branchname
+git checkout branchname to switch branches that already exist
