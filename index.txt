@@ -3,3 +3,8 @@ cd foldername
 git init in terminal
 git add .
 git commit -m "commit msg"
+git branch -m "branchname" this is used to rename the branch
+git remote add origin url adding remote repo to local repo  
+git push -u origin main pushing to remote repo on branch main
+git clone url
+git pull to pull the changes of remote repo to working directory 
