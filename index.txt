@@ -22,3 +22,11 @@ git push origin branchname
 git checkout branchname to switch branches that already exist
 git merge branchname merges the changes but we have to push 
 git push origin branchname
+
+OPEN PR AND MERGE FROM MAIN TO DEV NOW PUSHING MORE TO DEV THEN MERGING AGAIN 
+
+REBASE :
+
+
+
+REVERT :
