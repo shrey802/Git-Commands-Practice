@@ -26,7 +26,10 @@ git push origin branchname
 OPEN PR AND MERGE FROM MAIN TO DEV NOW PUSHING MORE TO DEV THEN MERGING AGAIN 
 
 REBASE :
-
+git rebase branchname basically rebases the branchname onto other branchname by example. git rebase main is to rebase that is add dev branch to main branch
+git rebase merges the feature branch onto main branch but doesn't add extra commit that is if main branch has A->B->C->D
+                                                                                                                    E->F and we have to merge E & F ahead of D then we can do using rebase
+whereas in merge extra commit history of merge
 
 
 REVERT :
