@@ -37,10 +37,3 @@ REVERT :
 git revert hash of the commit u want to revert or HEAD means latest commit we'll do HEAD 
 git revert -m "Reverting faulty changes" This will open an editor to create a revert commit message. Alternatively, specify a message directly:
 git push origin dev
-
-
-
-
-
-
-SOME FAULTY CHANGES
